@@ -1,0 +1,1 @@
+C:\ProvingGround\UniqueLocationNameAnalyzer\UniqueLocationNameAnalyzer\bin\Debug\UniqueLocationNameAnalyzer.exe.config

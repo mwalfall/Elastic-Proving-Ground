@@ -1,0 +1,15 @@
+C:\ProvingGround\LocationIndexer\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\DataAccess.dll
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\DataAccess.pdb
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Domain.dll
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Elasticsearch.Net.dll
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Nest.dll
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Domain.pdb
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Elasticsearch.Net.pdb
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Elasticsearch.Net.xml
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Nest.pdb
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Nest.xml
+C:\ProvingGround\LocationIndexer\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\ProvingGround\LocationIndexer\DataAccess\obj\Debug\DataAccess.dll
+C:\ProvingGround\LocationIndexer\DataAccess\obj\Debug\DataAccess.pdb

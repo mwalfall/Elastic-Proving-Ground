@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-environment qa indexby name  -indexnamevalues [jobs-de-4611-07.06.16.10.44.07,jobs-en-1118-06.20.16.17.26.40,jobs-en-1243-07.05.16.13.00.16,jobs-en-153-07.13.16.16.04.47,jobs-en-2100-08.03.16.17.32.35,jobs-en-2929-08.16.16.16.28.31,jobs-en-391-09.08.16.12.30.07,jobs-en-430-07.06.16.11.25.48,jobs-en-4709-08.24.16.10.07.38,jobs-en-4710-08.24.16.10.07.33,jobs-en-4767-08.10.16.14.08.23,jobs-en-4774-07.13.16.16.22.00,jobs-en-4897-08.10.16.23.59.45,jobs-en-4897-08.10.16.23.59.45,jobs-en-4905-08.18.16.13.50.31,jobs-en-4922-08.23.16.10.54.50,jobs-en-4923-08.23.16.10.54.49,jobs-en-4924-08.23.16.10.54.51,jobs-en-54-08.24.16.13.11.27,jobs-es-4709-08.24.16.10.07.37,jobs-es-4821-08.28.16.01.55.49,jobs-es-4860-08.28.16.01.55.55,jobs-fr-769-07.06.16.11.23.46,jobs-pt-4861-08.28.16.01.55.57,jobs-zh-4921-08.23.16.10.54.48]</StartArguments>
+  </PropertyGroup>
+</Project>

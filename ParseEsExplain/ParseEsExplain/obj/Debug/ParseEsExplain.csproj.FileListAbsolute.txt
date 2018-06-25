@@ -1,0 +1,6 @@
+C:\ProvingGround\ParseEsExplain\ParseEsExplain\bin\Debug\ParseEsExplain.exe.config
+C:\ProvingGround\ParseEsExplain\ParseEsExplain\bin\Debug\ParseEsExplain.exe
+C:\ProvingGround\ParseEsExplain\ParseEsExplain\bin\Debug\ParseEsExplain.pdb
+C:\ProvingGround\ParseEsExplain\ParseEsExplain\obj\Debug\ParseEsExplain.csprojResolveAssemblyReference.cache
+C:\ProvingGround\ParseEsExplain\ParseEsExplain\obj\Debug\ParseEsExplain.exe
+C:\ProvingGround\ParseEsExplain\ParseEsExplain\obj\Debug\ParseEsExplain.pdb

@@ -1,0 +1,16 @@
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\JobIndexBuilder.exe.config
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\JobIndexBuilder.exe
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\JobIndexBuilder.pdb
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\Elasticsearch.Net.dll
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\Nest.dll
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\Elasticsearch.Net.pdb
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\Elasticsearch.Net.xml
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\Nest.pdb
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\Nest.xml
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\obj\Debug\JobIndexBuilder.csprojResolveAssemblyReference.cache
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\obj\Debug\JobIndexBuilder.exe
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\obj\Debug\JobIndexBuilder.pdb
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\AutoMapper.dll
+C:\ProvingGround\JobIndexBuilder\JobIndexBuilder\bin\Debug\AutoMapper.xml

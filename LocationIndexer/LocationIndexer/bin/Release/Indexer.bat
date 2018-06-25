@@ -1,0 +1,1 @@
+LocationIndexer.exe -environment dev

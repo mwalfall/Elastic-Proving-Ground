@@ -1,0 +1,12 @@
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Domain.dll
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Domain.pdb
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Elasticsearch.Net.dll
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Nest.dll
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Newtonsoft.Json.dll
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Elasticsearch.Net.pdb
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Elasticsearch.Net.xml
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Nest.pdb
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Nest.xml
+C:\ProvingGround\LocationIndexer\Domain\bin\Release\Newtonsoft.Json.xml
+C:\ProvingGround\LocationIndexer\Domain\obj\Release\Domain.dll
+C:\ProvingGround\LocationIndexer\Domain\obj\Release\Domain.pdb

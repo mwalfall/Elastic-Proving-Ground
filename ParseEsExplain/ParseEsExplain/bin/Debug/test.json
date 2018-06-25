@@ -1,0 +1,329 @@
+{
+	"value": 3.190075,
+	"description": "product of:",
+	"details": [{
+			"value": 4.253433,
+			"description": "sum of:",
+			"details": [{
+					"value": 0.89310616,
+					"description": "weight(title.primary:engin^2.3 in 1212) [PerFieldSimilarity], result of:",
+					"details": [{
+						"value": 0.89310616,
+						"description": "score(doc=1212,freq=1.0), product of:",
+						"details": [{
+							"value": 0.24147612,
+							"description": "queryWeight, product of:",
+							"details": [{
+								"value": 2.3,
+								"description": "boost"
+							}, {
+								"value": 5.9176445,
+								"description": "idf(docFreq=146, maxDocs=20092)"
+							}, {
+								"value": 0.017741792,
+								"description": "queryNorm"
+							}]
+						}, {
+							"value": 3.6985278,
+							"description": "fieldWeight in 1212, product of:",
+							"details": [{
+								"value": 1,
+								"description": "tf(freq=1.0), with freq of:",
+								"details": [{
+									"value": 1,
+									"description": "termFreq=1.0"
+								}]
+							}, {
+								"value": 5.9176445,
+								"description": "idf(docFreq=146, maxDocs=20092)"
+							}, {
+								"value": 0.625,
+								"description": "fieldNorm(doc=1212)"
+							}]
+						}]
+					}]
+				}, {
+					"value": 1.4017882,
+					"description": "max of:",
+					"details": [{
+						"value": 1.4017882,
+						"description": "weight(title.secondary:engin^1.9 in 1212) [PerFieldSimilarity], result of:",
+						"details": [{
+							"value": 1.4017882,
+							"description": "score(doc=1212,freq=1.0), product of:",
+							"details": [{
+								"value": 0.3790125,
+								"description": "queryWeight, product of:",
+								"details": [{
+									"value": 1.9,
+									"description": "boost"
+								}, {
+									"value": 5.9176445,
+									"description": "idf(docFreq=146, maxDocs=20092)"
+								}, {
+									"value": 0.033709403,
+									"description": "queryNorm"
+								}]
+							}, {
+								"value": 3.6985278,
+								"description": "fieldWeight in 1212, product of:",
+								"details": [{
+									"value": 1,
+									"description": "tf(freq=1.0), with freq of:",
+									"details": [{
+										"value": 1,
+										"description": "termFreq=1.0"
+									}]
+								}, {
+									"value": 5.9176445,
+									"description": "idf(docFreq=146, maxDocs=20092)"
+								}, {
+									"value": 0.625,
+									"description": "fieldNorm(doc=1212)"
+								}]
+							}]
+						}]
+					}]
+				}, {
+					"value": 0.65669936,
+					"description": "max of:",
+					"details": [{
+						"value": 0.07351,
+						"description": "weight(description:engin^1.5 in 1212) [PerFieldSimilarity], result of:",
+						"details": [{
+							"value": 0.07351,
+							"description": "score(doc=1212,freq=5.0), product of:",
+							"details": [{
+								"value": 0.20492536,
+								"description": "queryWeight, product of:",
+								"details": [{
+									"value": 1.5,
+									"description": "boost"
+								}, {
+									"value": 5.1335254,
+									"description": "idf(docFreq=321, maxDocs=20092)"
+								}, {
+									"value": 0.026612688,
+									"description": "queryNorm"
+								}]
+							}, {
+								"value": 0.35871598,
+								"description": "fieldWeight in 1212, product of:",
+								"details": [{
+									"value": 2.236068,
+									"description": "tf(freq=5.0), with freq of:",
+									"details": [{
+										"value": 5,
+										"description": "termFreq=5.0"
+									}]
+								}, {
+									"value": 5.1335254,
+									"description": "idf(docFreq=321, maxDocs=20092)"
+								}, {
+									"value": 0.03125,
+									"description": "fieldNorm(doc=1212)"
+								}]
+							}]
+						}]
+					}, {
+						"value": 0.65669936,
+						"description": "weight(title.secondary:engin^1.5 in 1212) [PerFieldSimilarity], result of:",
+						"details": [{
+							"value": 0.65669936,
+							"description": "score(doc=1212,freq=1.0), product of:",
+							"details": [{
+								"value": 0.20480157,
+								"description": "queryWeight, product of:",
+								"details": [{
+									"value": 1.5,
+									"description": "boost"
+								}, {
+									"value": 5.1304245,
+									"description": "idf(docFreq=322, maxDocs=20092)"
+								}, {
+									"value": 0.026612688,
+									"description": "queryNorm"
+								}]
+							}, {
+								"value": 3.2065153,
+								"description": "fieldWeight in 1212, product of:",
+								"details": [{
+									"value": 1,
+									"description": "tf(freq=1.0), with freq of:",
+									"details": [{
+										"value": 1,
+										"description": "termFreq=1.0"
+									}]
+								}, {
+									"value": 5.1304245,
+									"description": "idf(docFreq=322, maxDocs=20092)"
+								}, {
+									"value": 0.625,
+									"description": "fieldNorm(doc=1212)"
+								}]
+							}]
+						}]
+					}]
+				}, {
+					"value": 0.2918664,
+					"description": "max of:",
+					"details": [{
+						"value": 0.032671113,
+						"description": "weight(description:engin in 1212) [PerFieldSimilarity], result of:",
+						"details": [{
+							"value": 0.032671113,
+							"description": "score(doc=1212,freq=5.0), product of:",
+							"details": [{
+								"value": 0.09107794,
+								"description": "queryWeight, product of:",
+								"details": [{
+									"value": 5.1335254,
+									"description": "idf(docFreq=321, maxDocs=20092)"
+								}, {
+									"value": 0.017741792,
+									"description": "queryNorm"
+								}]
+							}, {
+								"value": 0.35871598,
+								"description": "fieldWeight in 1212, product of:",
+								"details": [{
+									"value": 2.236068,
+									"description": "tf(freq=5.0), with freq of:",
+									"details": [{
+										"value": 5,
+										"description": "termFreq=5.0"
+									}]
+								}, {
+									"value": 5.1335254,
+									"description": "idf(docFreq=321, maxDocs=20092)"
+								}, {
+									"value": 0.03125,
+									"description": "fieldNorm(doc=1212)"
+								}]
+							}]
+						}]
+					}, {
+						"value": 0.2918664,
+						"description": "weight(title.secondary:engin in 1212) [PerFieldSimilarity], result of:",
+						"details": [{
+							"value": 0.2918664,
+							"description": "score(doc=1212,freq=1.0), product of:",
+							"details": [{
+								"value": 0.09102292,
+								"description": "queryWeight, product of:",
+								"details": [{
+									"value": 5.1304245,
+									"description": "idf(docFreq=322, maxDocs=20092)"
+								}, {
+									"value": 0.017741792,
+									"description": "queryNorm"
+								}]
+							}, {
+								"value": 3.2065153,
+								"description": "fieldWeight in 1212, product of:",
+								"details": [{
+									"value": 1,
+									"description": "tf(freq=1.0), with freq of:",
+									"details": [{
+										"value": 1,
+										"description": "termFreq=1.0"
+									}]
+								}, {
+									"value": 5.1304245,
+									"description": "idf(docFreq=322, maxDocs=20092)"
+								}, {
+									"value": 0.625,
+									"description": "fieldNorm(doc=1212)"
+								}]
+							}]
+						}]
+					}]
+				}, {
+					"value": 0.9707675,
+					"description": "weight(title.primary:engin^2.5 in 1212) [PerFieldSimilarity], result of:",
+					"details": [{
+							"value": 0.9707675,
+							"description": "score(doc=1212,freq=1.0), product of:",
+							"details": [{
+									"value": 0.26247403,
+									"description": "queryWeight, product of:",
+									"details": [{
+											"value": 2.5,
+											"description": "boost"
+										},
+									} {
+										"value": 5.9176445,
+										"description": "idf(docFreq=146, maxDocs=20092)"
+									},
+									{
+										"value": 0.017741792,
+										"description": "queryNorm"
+									}
+								]
+							},
+							{
+								"value": 3.6985278,
+								"description": "fieldWeight in 1212, product of:",
+								"details": [{
+									"value": 1,
+									"description": "tf(freq=1.0), with freq of:",
+									"details": [{
+										"value": 1,
+										"description": "termFreq=1.0"
+									}]
+								}, {
+									"value": 5.9176445,
+									"description": "idf(docFreq=146, maxDocs=20092)"
+								}, {
+									"value": 0.625,
+									"description": "fieldNorm(doc=1212)"
+								}]
+							}
+						]
+					} {
+						"value": 0.039205335,
+						"description": "weight(description:engin^1.2 in 1212) [PerFieldSimilarity], result of:",
+						"details": [{
+							"value": 0.039205335,
+							"description": "score(doc=1212,freq=5.0), product of:",
+							"details": [{
+								"value": 0.10929353,
+								"description": "queryWeight, product of:",
+								"details": [{
+									"value": 1.2,
+									"description": "boost"
+								}, {
+									"value": 5.1335254,
+									"description": "idf(docFreq=321, maxDocs=20092)"
+								}, {
+									"value": 0.017741792,
+									"description": "queryNorm"
+								}]
+							}, {
+								"value": 0.35871598,
+								"description": "fieldWeight in 1212, product of:",
+								"details": [{
+									"value": 2.236068,
+									"description": "tf(freq=5.0), with freq of:",
+									"details": [{
+										"value": 5,
+										"description": "termFreq=5.0"
+									}]
+								}, {
+									"value": 5.1335254,
+									"description": "idf(docFreq=321, maxDocs=20092)"
+								}, {
+									"value": 0.03125,
+									"description": "fieldNorm(doc=1212)"
+								}]
+							}]
+						}]
+					}
+				]
+			},
+			{
+				"value": 0.75,
+				"description": "coord(6/8)"
+			}
+		]
+	}

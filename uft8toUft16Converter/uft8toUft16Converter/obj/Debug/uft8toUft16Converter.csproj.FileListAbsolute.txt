@@ -1,0 +1,6 @@
+c:\ProvingGround\uft8toUft16Converter\uft8toUft16Converter\bin\Debug\uft8toUft16Converter.exe.config
+C:\ProvingGround\uft8toUft16Converter\uft8toUft16Converter\bin\Debug\uft8toUft16Converter.exe
+C:\ProvingGround\uft8toUft16Converter\uft8toUft16Converter\bin\Debug\uft8toUft16Converter.pdb
+C:\ProvingGround\uft8toUft16Converter\uft8toUft16Converter\obj\Debug\uft8toUft16Converter.csprojResolveAssemblyReference.cache
+C:\ProvingGround\uft8toUft16Converter\uft8toUft16Converter\obj\Debug\uft8toUft16Converter.exe
+C:\ProvingGround\uft8toUft16Converter\uft8toUft16Converter\obj\Debug\uft8toUft16Converter.pdb
