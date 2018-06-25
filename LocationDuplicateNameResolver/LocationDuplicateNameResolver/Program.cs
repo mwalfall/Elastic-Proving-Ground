@@ -13,7 +13,7 @@ namespace LocationDuplicateNameResolver
             var options = new ConfigurationOptions
             {
                 CountryCodes = new List<string> { "GB" },
-                XmlDocumentPath = @"\\TMPPFDB01D\PlatformData\GeoNames Data\LocationXml"
+                XmlDocumentPath = @"\\ServerName\GeoNamesData\LocationXml"
             };
 
             var xmlDataService = new XmlDataService();
